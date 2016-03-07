@@ -1,4 +1,4 @@
-# **sand-e** the sand art robot
+# **Sand.E** the sand art robot
 
 ## Description
 
